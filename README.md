@@ -6,7 +6,7 @@ demo for agent conf talk https://slides.com/vladimirnovick/data-driven-ar
 
 was tested only on iOS. Might need a bit of a setup on Android. Consult ViroReact docs for more info
 
-## IoS
+## iOS
 
 ```
 yarn
